@@ -1,1 +1,2 @@
 # Weather-App
+This weather app is designed to provide accurate, real-time weather information for any city. Built with HTML, CSS, and JavaScript, it features a sleek, responsive design and integrates with a weather API to display temperature, humidity, wind speed, and other weather conditions. Additional features include a dynamic background that changes based on weather conditions, a search functionality, and error handling for invalid inputs
